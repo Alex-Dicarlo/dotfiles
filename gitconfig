@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = alexdicarlo.biz@gmail.com
+	name = Alex DiCarlo
